@@ -14,3 +14,30 @@ and alphabetical recognition become relevant.
 - PyTesseract : OCR <br/>
 - MongoDB : Database  <br/>
 
+</br>
+
+## Software Requirements :
+1. Operating system: Windows 7 or higher <br/>
+2. Front end: Python 3.11 <br/>
+3. Back end: MongoDB x86_64_7.00   <br/>
+4. Images samples in: .jpeg, .jpg, .png format    <br/>
+
+</br>
+
+### System Prerequisites :
+Open cmd and execute the following command : </br>
+```pip install pytesseract PIL pymongo customtkinter ```
+
+
+<br/>
+<br/>
+
+![system_design](Snips/system_design.jpg)
+<br/>*System Design*
+
+<br/>
+
+![main_page](Snips/main_page.jpg)
+<br/>*Website Main Page*
+
+<br/>
