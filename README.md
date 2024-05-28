@@ -32,12 +32,27 @@ Open cmd and execute the following command : </br>
 <br/>
 <br/>
 
-![system_design](Snips/system_design.jpg)
-<br/>*System Design*
+![system_design](system_diagram.jpg)
+<br/>*System Diagram*
 
 <br/>
 
-![main_page](Snips/main_page.jpg)
-<br/>*Website Main Page*
+![flowchart](flowchart.jpg)
+<br/>*Flowchart*
+
+<br/>
+
+![er-diagram](er-diagram.jpg)
+<br/>*Entity Relationship Diagram*
+
+<br/>
+
+![handwriting-recognition](handwriting-recognition.jpg)
+<br/>*Handwriting Recognition*
+
+<br/>
+
+![database](database.jpg)
+<br/>*Database*
 
 <br/>
