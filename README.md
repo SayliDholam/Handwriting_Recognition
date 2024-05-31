@@ -20,7 +20,14 @@ Customization: Provides more options for customizing the appearance of widgets, 
 <br/><br/>
 
 - **PyTesseract : OCR**<br/>
-
+PyTesseract is a Python wrapper for Google Tesseract-OCR, an optical character recognition (OCR) tool for extracting text from images. It allows you to use Tesseract's capabilities within Python programs
+<br/><br/>Download and Install [PyTesseract](https://pypi.org/project/pytesseract/)
+<br/><br/>Using pip command : <br/>
+```pip install pytesseract pillow```<br/>
+<br/>Write the below import in python code :<br/>
+```from PIL import Image```<br/>
+``` import pytesseract ```
+<br/><br/>
 
 - **MongoDB : Database**  <br/>
 
