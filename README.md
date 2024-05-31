@@ -40,12 +40,6 @@ PyTesseract is a Python wrapper for Google Tesseract-OCR, an optical character r
 4. Images samples in: .jpeg, .jpg, .png format    <br/>
 
 </br>
-
-### System Prerequisites :
-Open cmd and execute the following command : </br>
-```pip install pytesseract PIL pymongo customtkinter ```
-
-
 <br/>
 <br/>
 
