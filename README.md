@@ -13,7 +13,7 @@ and alphabetical recognition become relevant.
 - **customertkinter : Python GUI library**<br/><br/>
  customtkinter is an extension of the standard Tkinter library for Python, designed to provide a more modern and customizable interface. It adds new features and widgets that are not available in the standard Tkinter library, making it easier to create visually appealing and responsive user interfaces.
 <br/><br/> Features of customtkinter : <br/>
-Modern Look: Offers a more modern and sleek look for the widgets compared to the traditional Tkinter.<br/>
+<u>Modern Look</u>: Offers a more modern and sleek look for the widgets compared to the traditional Tkinter.<br/>
 Customization: Provides more options for customizing the appearance of widgets, including colors, shapes, and styles.
 <br/><br/> You can install customtkinter using pip : <br/>
 ``` pip install customtkinter ```
