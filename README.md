@@ -32,7 +32,7 @@ PyTesseract is a Python wrapper for Google Tesseract-OCR, an optical character r
 - **MongoDB : Database**  <br/>
 MongoDB is a popular NoSQL database that stores data in JSON-like documents with a flexible schema. This makes it different from traditional relational databases, which store data in rows and columns.</br></br>
 Download MongoDB:</br>
-Go to the MongoDB Download Center and select the version that matches your operating system.</br></br>
+Go to the [MongoDB Download Center](https://www.mongodb.com/try/download/community) and select the version that matches your operating system.</br></br>
 Install MongoDB:</br>
 Run the downloaded installer and follow the installation wizard.</br>
 During installation, you can select the "Complete" setup type to install all MongoDB components.</br>
