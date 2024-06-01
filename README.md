@@ -39,6 +39,16 @@ During installation, you can select the "Complete" setup type to install all Mon
 Ensure that the option to install MongoDB as a service is checked.</br></br>
 Set up MongoDB Environment:</br>
 After installation, you need to create directories for data and logs.</br>
+``` md \data\db``` ```md \data\log ``` </br></br>
+Run MongoDB:</br>
+Open a command prompt and start the MongoDB server by running:</br>
+``` "C:\Program Files\MongoDB\Server\{your_version}\bin\mongod.exe" ```</br></br>
+Connecting to MongoDB:</br>
+To interact with MongoDB, you can use the MongoDB shell or a GUI tool like MongoDB Compass.</br></br>
+Using MongoDB with Python</br>
+```pip install pymongo```</br></br>
+Python Script:</br>
+``` from pymongo import MongoClient ```
  
 </br>
 
